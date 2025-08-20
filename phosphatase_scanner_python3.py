@@ -16,15 +16,15 @@ SCANNER_DIR = os.path.realpath(os.path.dirname(__file__))
 KLASS_LEVELS = ['Group', 'Family', 'Subfamily']
 HMM_GENERAL = {
     'id': 'general',
-    'file': f'{SCANNER_DIR}/../data/general.hmm3'
+    'file': f'{SCANNER_DIR}/data/general.hmm3'
 }
 HMM_PD = {
     'id': 'PD',
-    'file': f'{SCANNER_DIR}/../data/PD.hmm3'
+    'file': f'{SCANNER_DIR}/data/PD.hmm3'
 }
 HMM_PROTEIN = {
     'id': 'protein',
-    'file': f'{SCANNER_DIR}/../data/protein.hmm3'
+    'file': f'{SCANNER_DIR}/data/protein.hmm3'
 }
 HMMSCAN_BIN = 'hmmscan'
 
