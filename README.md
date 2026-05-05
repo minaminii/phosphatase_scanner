@@ -58,7 +58,4 @@ Bridging manual and computational approaches: The pseudophosphatase scanner for 
 **Author:**
 
 Sara Wattabasombat
-
-Department of Microbiology
-
-Faculty of Medicine, Chiang Mai University
+Department of Microbiology, Faculty of Medicine, Chiang Mai University
