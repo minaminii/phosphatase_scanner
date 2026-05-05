@@ -49,6 +49,12 @@ hmmscan_pipeline.sh -i proteins.faa -p sample1 -o results/
 
 ## Citation & Contact
 
+**Citation:**
+
+Pongpom, M., Wattanasombat, S., Aphiwongcharoen, C., Limsamutpet, K., & Wangsanut, T. (2026). 
+Bridging manual and computational approaches: The pseudophosphatase scanner for genome-wide fungal pseudophosphatome analysis 
+[Manuscript accepted for publication]. ACS Omega.
+
 **Author:**
 
 Sara Wattabasombat
